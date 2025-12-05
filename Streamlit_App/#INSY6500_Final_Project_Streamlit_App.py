@@ -1,4 +1,6 @@
 #INSY6500 Final Project Streamlit App
+#Some code in this app was AI generated, but all code was modified to fit the data and output desired in this app. 
+#AI intellisense was used to generate code within this app.
 import streamlit as st
 from core import read_data , create_bar_chart, create_kde_chart
 
