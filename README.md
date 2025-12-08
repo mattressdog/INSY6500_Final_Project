@@ -22,6 +22,7 @@ This repository contains the final project for INSY 6500 - Modern Tools for Data
   - Streamlit_App: Streamlit App 
   - INSY6500_Final_Report_Breast_Cancer_Research.ipynb: The jupyter notebook containing the bulk of the analysis
   - README.md: This file
+  - Presentation Video: Breast Cancer EDA_720.mp4
 
 ## Tools and Technologies
 
