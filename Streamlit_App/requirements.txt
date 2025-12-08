@@ -4,6 +4,6 @@ sys
 numpy
 sklearn
 scipy
-matplotlib
+matplotlib==3.10.7
 matplotlib.pylab
 seaborn
